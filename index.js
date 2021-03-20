@@ -100,5 +100,7 @@ module.exports = plugin(function({ e, addUtilities }) {
 		};
 	});
 
-	addUtilities(zoom);
+	addUtilities(zoom, {
+		variants: ['responsive', 'hover'],
+	});
 });
