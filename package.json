@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-zoom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use the zoom css property as a Tailwind utility",
   "main": "index.js",
   "scripts": {
